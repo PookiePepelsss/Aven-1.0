@@ -1,5 +1,3 @@
-# Aven
-
 Aven is a premium AI model specializing in Lua and Luau, built to compete with Claude in Lua development and reverse engineering.
 
 ### Specializations
